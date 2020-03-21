@@ -1,0 +1,26 @@
+{
+  "name": "babel-plugin-remove-vconsole",
+  "version": "1.0.0",
+  "description": "生产环境中移除vconsole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itvworker/babel-plugin-remove-vconsole.git"
+  },
+  "keywords": [
+    "babel",
+    "babel",
+    "plugin",
+    "babel插件",
+    "移除vconsole"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itvworker/babel-plugin-remove-vconsole/issues"
+  },
+  "homepage": "https://github.com/itvworker/babel-plugin-remove-vconsole#readme"
+}
