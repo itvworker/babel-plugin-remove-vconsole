@@ -1,5 +1,5 @@
 
-
+var name;
 const visitor = {
   // 二元表达式类型节点的访问者
   ImportDeclaration(path, { opts }) {

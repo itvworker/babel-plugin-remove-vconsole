@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-remove-vconsole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "生产环境中移除vconsole",
   "main": "index.js",
   "scripts": {
